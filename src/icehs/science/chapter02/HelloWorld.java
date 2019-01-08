@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("æ»≥Á«œººø‰?");
 		System.out.println("Welcome SuninHigh");
+		
+		
 	}
 
 }
